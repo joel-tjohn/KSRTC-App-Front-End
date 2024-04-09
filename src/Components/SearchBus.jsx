@@ -1,4 +1,5 @@
 import React from 'react'
+import Header from './Hearder'
 
 
 
@@ -11,6 +12,9 @@ const SearchBus = () => {
                 <p> SEARCH FOR BUS</p>
 
             </font>
+
+
+            <Header/>
             <div className="container">
 
 

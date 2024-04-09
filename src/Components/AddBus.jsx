@@ -1,4 +1,5 @@
 import React from 'react'
+import Header from './Hearder'
 
 
 
@@ -14,7 +15,7 @@ const AddBus = () => {
                 <p>ADD BUS </p>
 
             </font>
-
+<Header/>
 
             <div className="container">
                 <div className="row">

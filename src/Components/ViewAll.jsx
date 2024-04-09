@@ -1,4 +1,5 @@
 import React from 'react'
+import Header from './Hearder'
 
 const ViewAll = () => {
     return (
@@ -11,6 +12,11 @@ const ViewAll = () => {
                 <p> VIEW ALL BUS </p>
 
             </font>
+
+            <Header/>
+
+
+            <br /><br /><br />
 
             <div className="container">
                 <div className="row">

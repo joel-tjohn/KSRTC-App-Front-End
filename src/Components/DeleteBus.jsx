@@ -1,4 +1,5 @@
 import React from 'react'
+import Header from './Hearder'
 
 
 
@@ -13,6 +14,9 @@ const DeleteBus = () => {
 
             </font>
 
+
+
+<Header/>
             <div className="container">
 
 
