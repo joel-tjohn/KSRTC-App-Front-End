@@ -6,6 +6,16 @@ const AddBus = () => {
     return (
         <div>
 
+
+
+
+            <font size="38">
+
+                <p>ADD BUS </p>
+
+            </font>
+
+
             <div className="container">
                 <div className="row">
                     <div className="col col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">

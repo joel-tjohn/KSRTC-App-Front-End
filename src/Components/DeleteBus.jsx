@@ -6,7 +6,13 @@ const DeleteBus = () => {
     return (
         <div>
 
-          
+
+            <font size="38">
+
+                <p> DELETE BUS</p>
+
+            </font>
+
             <div className="container">
 
 

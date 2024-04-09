@@ -6,7 +6,11 @@ const SearchBus = () => {
     return (
         <div>
 
-           
+            <font size="38">
+
+                <p> SEARCH FOR BUS</p>
+
+            </font>
             <div className="container">
 
 
